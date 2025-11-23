@@ -1,0 +1,84 @@
+---
+title: Project Title
+author: ""
+format: pdf
+execute:
+  echo: true
+fontsize: 11pt
+geometry: margin=1in
+linestretch: 1.5
+---
+
+Student Name (Student ID),
+
+Student Name (Student ID),
+
+Student Name (Student ID),
+
+Student Name (Student ID)
+
+\newpage
+
+## Step 1:
+
+Follow the instructions to download and load the `mfeat-mor` dataset from the UCI Machine Learning Repository.
+
+## Step 2:
+
+Provided code.
+
+## Step 3:
+
+```{r}
+#Exploratory analysis code:
+```
+
+Interpretation (you can choose the tables and figures to present):
+
+-   Statement 1
+-   Statement 2
+-   Statement 3
+-   Statement 4
+
+## Step 4:
+
+Problem chosen:
+
+Rationale:
+
+## Step 5:
+
+Method 1:
+
+```{r}
+#method 1 analysis
+```
+
+Why chosen method 1:
+
+Method 2:
+
+```{r}
+#method 2 analysis
+```
+
+Why chosen method 2:
+
+## Step 6:
+
+Interpretation of results from Method 1 (you can choose the tables and figures to present):
+
+-   interpretation 1
+-   interpretation 2
+
+Interpretation of results from Method 2 (you can choose the tables and figures to present):
+
+-   interpretation 1
+-   interpretation 2
+
+Comparison of methods:
+
+-   statement 1
+-   statement 2
+-   statement 3
+-   statement 4
